@@ -1,6 +1,6 @@
 # MatchingBED-FA
 > [!NOTE]
-> 该工具仅使用下载自UCSC的FASTA文件，这里提供下载地址：
+> 该工具仅适用下载自UCSC的FASTA文件，这里提供下载地址：
 > * 人类
 >   - [HG38](https://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz)
 > * 小鼠
