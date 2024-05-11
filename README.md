@@ -19,6 +19,7 @@
 * `pip install pandas`
 
 ## 使用方法
+* Script文件位于Sources文件夹内
 ### 参数详解
 * -pf, --pathOfFasta：必选参数，用于指定FASTA文件的路径。此参数无默认值，用户必须显式提供。
     * 建议将FASTA参考文件放置于 `INPUT/Ref_FA` 。
